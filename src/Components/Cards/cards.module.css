@@ -1,0 +1,33 @@
+.container
+{
+    margin: 50px 0;
+    
+}
+
+.card
+{
+    margin: 0 2% !important;
+    background-color: red;
+    box-shadow:5px 5px 5px gray;  
+}
+
+.infected
+{
+    border-bottom: 10px solid rgb(0, 0,255);
+    box-shadow:5px 5px 5px gray;  
+
+    
+}
+
+
+.recovered
+{
+    border-bottom: 10px solid rgb(9, 102, 1);
+    
+}
+
+.deaths
+{
+    border-bottom: 10px solid rgb(255, 0,0);
+    
+}
